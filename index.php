@@ -1,7 +1,7 @@
 
 <?php
 
-echo "<iframe src=\"github.com/sahinibrahimli/menimcv/files/476674/SH.CV.pdf\" width=\"100%\" style=\"height:100%\"></iframe>";
+echo "<iframe src=\"https://github.com/sahinibrahimli/menimcv/files/476674/SH.CV.pdf\" width=\"100%\" style=\"height:100%\"></iframe>";
 
 ?>
 
