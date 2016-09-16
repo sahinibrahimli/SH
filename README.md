@@ -1,2 +1,6 @@
-# menimcv
-CV about me
+
+<?php
+
+echo "salam dunya";
+
+?>
