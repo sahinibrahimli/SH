@@ -6,5 +6,3 @@ $image_url='https://cloud.githubusercontent.com/assets/22137362/18583178/fc70825
 ?>
 
 <img src="<?php echo $image_url;?>">
-
-<br><h1>Got me?</h1>
