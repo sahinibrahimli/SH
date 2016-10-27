@@ -1,2 +1,1 @@
-[SH CV.pdf](https://github.com/sahinibrahimli/menimcv/files/476674/SH.CV.pdf)
-
+[SH.CV.pdf](https://github.com/sahinibrahimli/SH/files/557052/SH.CV.pdf)
